@@ -850,6 +850,8 @@ section,
 .portfolio .portfolio-content .portfolio-info p {
   position: absolute;
   bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   text-align: center;
   display: inline-block;
   left: 0;
